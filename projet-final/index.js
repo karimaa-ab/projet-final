@@ -635,15 +635,8 @@ function afficherMenu() {
     });
 }
 
-//afficherMenu();
+afficherMenu();
 
-// afficherMenu();
+g
 
-console.log(enregistrerResultat(1, {
-    jour: 3,
-    exercicesTermines: 16,
-    totalExercices: 20,
-    challengeTermine: true
-}));
 
-console.log(rechercherApprenant(1));
