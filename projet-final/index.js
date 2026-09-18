@@ -637,6 +637,6 @@ function afficherMenu() {
 
 afficherMenu();
 
-g
+
 
 
